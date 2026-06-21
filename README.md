@@ -112,13 +112,13 @@ Household-Power-Consumption/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Household-Power-Consumption.git
+git clone https://github.com/Vishnuprabhasreddy/Household-Power-Consumption.git
 ```
 
 2. Navigate to the project directory
 
 ```bash
-cd Household-Power-Consumption
+cd household_Power_Consumption
 ```
 
 3. Install dependencies
